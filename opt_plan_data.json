@@ -1,0 +1,5406 @@
+{
+    "agricola-opt18-strips": {
+        "p01.pddl": {
+            "opt_cost": 786,
+            "opt_plan_length": 65
+        },
+        "p02.pddl": {
+            "opt_cost": 878,
+            "opt_plan_length": 64
+        },
+        "p03.pddl": {
+            "opt_cost": 788,
+            "opt_plan_length": 67
+        },
+        "p05.pddl": {
+            "opt_cost": 979,
+            "opt_plan_length": 84
+        }
+    },
+    "barman-opt11-strips": {
+        "pfile01-001.pddl": {
+            "opt_cost": 90,
+            "opt_plan_length": 36
+        },
+        "pfile01-002.pddl": {
+            "opt_cost": 90,
+            "opt_plan_length": 36
+        },
+        "pfile01-003.pddl": {
+            "opt_cost": 90,
+            "opt_plan_length": 36
+        },
+        "pfile02-006.pddl": {
+            "opt_cost": 121,
+            "opt_plan_length": 49
+        },
+        "pfile02-007.pddl": {
+            "opt_cost": 121,
+            "opt_plan_length": 49
+        },
+        "pfile02-008.pddl": {
+            "opt_cost": 121,
+            "opt_plan_length": 49
+        },
+        "pfile01-004.pddl": {
+            "opt_cost": 90,
+            "opt_plan_length": 36
+        },
+        "pfile02-005.pddl": {
+            "opt_cost": 121,
+            "opt_plan_length": 49
+        }
+    },
+    "barman-opt14-strips": {
+        "p435-1.pddl": {
+            "opt_cost": 49,
+            "opt_plan_length": 49
+        },
+        "p435-2.pddl": {
+            "opt_cost": 49,
+            "opt_plan_length": 49
+        },
+        "p435-3.pddl": {
+            "opt_cost": 49,
+            "opt_plan_length": 49
+        }
+    },
+    "blocks": {
+        "probBLOCKS-10-2.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "probBLOCKS-11-0.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "probBLOCKS-11-1.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "probBLOCKS-11-2.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "probBLOCKS-12-0.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "probBLOCKS-12-1.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "probBLOCKS-14-0.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "probBLOCKS-14-1.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        },
+        "probBLOCKS-4-0.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "probBLOCKS-4-1.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "probBLOCKS-4-2.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "probBLOCKS-5-0.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "probBLOCKS-5-1.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "probBLOCKS-5-2.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "probBLOCKS-6-0.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "probBLOCKS-6-1.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "probBLOCKS-6-2.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "probBLOCKS-7-0.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "probBLOCKS-7-1.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "probBLOCKS-7-2.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "probBLOCKS-8-0.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "probBLOCKS-8-1.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "probBLOCKS-8-2.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "probBLOCKS-9-0.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "probBLOCKS-9-1.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "probBLOCKS-9-2.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "probBLOCKS-10-0.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "probBLOCKS-10-1.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        }
+    },
+    "data-network-opt18-strips": {
+        "p01.pddl": {
+            "opt_cost": 105,
+            "opt_plan_length": 7
+        },
+        "p02.pddl": {
+            "opt_cost": 73,
+            "opt_plan_length": 6
+        },
+        "p03.pddl": {
+            "opt_cost": 78,
+            "opt_plan_length": 13
+        },
+        "p04.pddl": {
+            "opt_cost": 121,
+            "opt_plan_length": 20
+        },
+        "p05.pddl": {
+            "opt_cost": 104,
+            "opt_plan_length": 18
+        },
+        "p06.pddl": {
+            "opt_cost": 107,
+            "opt_plan_length": 17
+        },
+        "p09.pddl": {
+            "opt_cost": 73,
+            "opt_plan_length": 8
+        },
+        "p10.pddl": {
+            "opt_cost": 105,
+            "opt_plan_length": 11
+        },
+        "p11.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 9
+        },
+        "p12.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 9
+        },
+        "p13.pddl": {
+            "opt_cost": 104,
+            "opt_plan_length": 14
+        },
+        "p15.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 7
+        },
+        "p17.pddl": {
+            "opt_cost": 127,
+            "opt_plan_length": 12
+        }
+    },
+    "depot": {
+        "p01.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p02.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "p03.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "p04.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p05.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
+        },
+        "p07.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p08.pddl": {
+            "opt_cost": 33,
+            "opt_plan_length": 33
+        },
+        "p10.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p11.pddl": {
+            "opt_cost": 46,
+            "opt_plan_length": 46
+        },
+        "p13.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p14.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 29
+        },
+        "p16.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p17.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p19.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        },
+        "p21.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        }
+    },
+    "driverlog": {
+        "p01.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "p02.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p03.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "p04.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "p05.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p06.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p07.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 13
+        },
+        "p08.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p09.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p10.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p11.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p12.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "p13.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "p14.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "p15.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        }
+    },
+    "elevators-opt08-strips": {
+        "p01.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 14
+        },
+        "p02.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 9
+        },
+        "p03.pddl": {
+            "opt_cost": 55,
+            "opt_plan_length": 18
+        },
+        "p04.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 18
+        },
+        "p05.pddl": {
+            "opt_cost": 55,
+            "opt_plan_length": 22
+        },
+        "p06.pddl": {
+            "opt_cost": 53,
+            "opt_plan_length": 26
+        },
+        "p07.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 27
+        },
+        "p08.pddl": {
+            "opt_cost": 53,
+            "opt_plan_length": 25
+        },
+        "p09.pddl": {
+            "opt_cost": 78,
+            "opt_plan_length": 36
+        },
+        "p10.pddl": {
+            "opt_cost": 69,
+            "opt_plan_length": 34
+        },
+        "p11.pddl": {
+            "opt_cost": 56,
+            "opt_plan_length": 17
+        },
+        "p12.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 16
+        },
+        "p13.pddl": {
+            "opt_cost": 59,
+            "opt_plan_length": 17
+        },
+        "p14.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 22
+        },
+        "p15.pddl": {
+            "opt_cost": 66,
+            "opt_plan_length": 24
+        },
+        "p16.pddl": {
+            "opt_cost": 87,
+            "opt_plan_length": 29
+        },
+        "p17.pddl": {
+            "opt_cost": 78,
+            "opt_plan_length": 30
+        },
+        "p18.pddl": {
+            "opt_cost": 61,
+            "opt_plan_length": 26
+        },
+        "p21.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 17
+        },
+        "p22.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 19
+        },
+        "p23.pddl": {
+            "opt_cost": 69,
+            "opt_plan_length": 23
+        },
+        "p24.pddl": {
+            "opt_cost": 56,
+            "opt_plan_length": 24
+        },
+        "p25.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 27
+        },
+        "p26.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 19
+        },
+        "p27.pddl": {
+            "opt_cost": 82,
+            "opt_plan_length": 30
+        }
+    },
+    "elevators-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 56,
+            "opt_plan_length": 17
+        },
+        "p02.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 17
+        },
+        "p03.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 16
+        },
+        "p04.pddl": {
+            "opt_cost": 55,
+            "opt_plan_length": 18
+        },
+        "p05.pddl": {
+            "opt_cost": 59,
+            "opt_plan_length": 17
+        },
+        "p06.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 18
+        },
+        "p07.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 19
+        },
+        "p08.pddl": {
+            "opt_cost": 55,
+            "opt_plan_length": 22
+        },
+        "p09.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 19
+        },
+        "p10.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 22
+        },
+        "p12.pddl": {
+            "opt_cost": 53,
+            "opt_plan_length": 26
+        },
+        "p13.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 27
+        },
+        "p14.pddl": {
+            "opt_cost": 53,
+            "opt_plan_length": 25
+        },
+        "p15.pddl": {
+            "opt_cost": 78,
+            "opt_plan_length": 36
+        },
+        "p16.pddl": {
+            "opt_cost": 66,
+            "opt_plan_length": 24
+        },
+        "p17.pddl": {
+            "opt_cost": 78,
+            "opt_plan_length": 30
+        },
+        "p18.pddl": {
+            "opt_cost": 61,
+            "opt_plan_length": 26
+        },
+        "p19.pddl": {
+            "opt_cost": 69,
+            "opt_plan_length": 23
+        },
+        "p20.pddl": {
+            "opt_cost": 56,
+            "opt_plan_length": 24
+        }
+    },
+    "floortile-opt11-strips": {
+        "opt-p01-001.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 25
+        },
+        "opt-p01-002.pddl": {
+            "opt_cost": 33,
+            "opt_plan_length": 24
+        },
+        "opt-p02-003.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 38
+        },
+        "opt-p02-004.pddl": {
+            "opt_cost": 53,
+            "opt_plan_length": 35
+        },
+        "opt-p03-005.pddl": {
+            "opt_cost": 58,
+            "opt_plan_length": 43
+        },
+        "opt-p03-006.pddl": {
+            "opt_cost": 60,
+            "opt_plan_length": 43
+        },
+        "opt-p04-007.pddl": {
+            "opt_cost": 66,
+            "opt_plan_length": 46
+        },
+        "opt-p04-008.pddl": {
+            "opt_cost": 76,
+            "opt_plan_length": 50
+        },
+        "opt-p05-009.pddl": {
+            "opt_cost": 76,
+            "opt_plan_length": 56
+        },
+        "opt-p05-010.pddl": {
+            "opt_cost": 87,
+            "opt_plan_length": 61
+        },
+        "opt-p06-011.pddl": {
+            "opt_cost": 101,
+            "opt_plan_length": 71
+        },
+        "opt-p06-012.pddl": {
+            "opt_cost": 106,
+            "opt_plan_length": 74
+        },
+        "opt-p07-013.pddl": {
+            "opt_cost": 108,
+            "opt_plan_length": 75
+        },
+        "opt-p07-014.pddl": {
+            "opt_cost": 110,
+            "opt_plan_length": 77
+        }
+    },
+    "floortile-opt14-strips": {
+        "p01-4-3-2.pddl": {
+            "opt_cost": 56,
+            "opt_plan_length": 36
+        },
+        "p01-4-4-2.pddl": {
+            "opt_cost": 68,
+            "opt_plan_length": 48
+        },
+        "p01-5-3-2.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 44
+        },
+        "p01-5-4-2.pddl": {
+            "opt_cost": 91,
+            "opt_plan_length": 61
+        },
+        "p01-5-5-2.pddl": {
+            "opt_cost": 111,
+            "opt_plan_length": 78
+        },
+        "p01-6-4-2.pddl": {
+            "opt_cost": 104,
+            "opt_plan_length": 72
+        },
+        "p01-6-5-2.pddl": {
+            "opt_cost": 122,
+            "opt_plan_length": 90
+        },
+        "p02-4-4-2.pddl": {
+            "opt_cost": 75,
+            "opt_plan_length": 49
+        },
+        "p02-5-3-2.pddl": {
+            "opt_cost": 65,
+            "opt_plan_length": 44
+        },
+        "p02-5-4-2.pddl": {
+            "opt_cost": 98,
+            "opt_plan_length": 64
+        },
+        "p02-5-5-2.pddl": {
+            "opt_cost": 106,
+            "opt_plan_length": 75
+        },
+        "p02-6-4-2.pddl": {
+            "opt_cost": 109,
+            "opt_plan_length": 75
+        },
+        "p02-6-5-2.pddl": {
+            "opt_cost": 141,
+            "opt_plan_length": 95
+        },
+        "p03-4-3-2.pddl": {
+            "opt_cost": 56,
+            "opt_plan_length": 36
+        },
+        "p03-4-4-2.pddl": {
+            "opt_cost": 72,
+            "opt_plan_length": 48
+        },
+        "p03-5-3-2.pddl": {
+            "opt_cost": 65,
+            "opt_plan_length": 44
+        },
+        "p03-5-4-2.pddl": {
+            "opt_cost": 83,
+            "opt_plan_length": 59
+        },
+        "p03-5-5-2.pddl": {
+            "opt_cost": 100,
+            "opt_plan_length": 73
+        },
+        "p03-6-4-2.pddl": {
+            "opt_cost": 116,
+            "opt_plan_length": 76
+        },
+        "p03-6-5-2.pddl": {
+            "opt_cost": 130,
+            "opt_plan_length": 92
+        }
+    },
+    "freecell": {
+        "p01.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p02.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p03.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p04.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "p05.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p06.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "p07.pddl": {
+            "opt_cost": 41,
+            "opt_plan_length": 41
+        },
+        "p08.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "p09.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
+        },
+        "p10.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 48
+        },
+        "p11.pddl": {
+            "opt_cost": 56,
+            "opt_plan_length": 56
+        },
+        "p12.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "p13.pddl": {
+            "opt_cost": 58,
+            "opt_plan_length": 58
+        },
+        "p14.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 54
+        },
+        "p15.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 62
+        },
+        "p16.pddl": {
+            "opt_cost": 60,
+            "opt_plan_length": 60
+        },
+        "p17.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 62
+        },
+        "p18.pddl": {
+            "opt_cost": 74,
+            "opt_plan_length": 74
+        },
+        "p19.pddl": {
+            "opt_cost": 88,
+            "opt_plan_length": 88
+        },
+        "probfreecell-10-1.pddl": {
+            "opt_cost": 57,
+            "opt_plan_length": 57
+        },
+        "probfreecell-10-2.pddl": {
+            "opt_cost": 53,
+            "opt_plan_length": 53
+        },
+        "probfreecell-10-3.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 50
+        },
+        "probfreecell-10-4.pddl": {
+            "opt_cost": 57,
+            "opt_plan_length": 57
+        },
+        "probfreecell-10-5.pddl": {
+            "opt_cost": 60,
+            "opt_plan_length": 60
+        },
+        "probfreecell-11-1.pddl": {
+            "opt_cost": 65,
+            "opt_plan_length": 65
+        },
+        "probfreecell-11-2.pddl": {
+            "opt_cost": 58,
+            "opt_plan_length": 58
+        },
+        "probfreecell-11-3.pddl": {
+            "opt_cost": 57,
+            "opt_plan_length": 57
+        },
+        "probfreecell-11-4.pddl": {
+            "opt_cost": 66,
+            "opt_plan_length": 66
+        },
+        "probfreecell-11-5.pddl": {
+            "opt_cost": 71,
+            "opt_plan_length": 71
+        },
+        "probfreecell-12-1.pddl": {
+            "opt_cost": 73,
+            "opt_plan_length": 73
+        },
+        "probfreecell-12-2.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 63
+        },
+        "probfreecell-12-3.pddl": {
+            "opt_cost": 65,
+            "opt_plan_length": 65
+        },
+        "probfreecell-13-2.pddl": {
+            "opt_cost": 75,
+            "opt_plan_length": 75
+        },
+        "probfreecell-13-3.pddl": {
+            "opt_cost": 73,
+            "opt_plan_length": 73
+        },
+        "probfreecell-2-1.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        },
+        "probfreecell-2-2.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "probfreecell-2-3.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "probfreecell-2-4.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "probfreecell-2-5.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        },
+        "probfreecell-3-1.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "probfreecell-3-2.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 13
+        },
+        "probfreecell-3-3.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "probfreecell-3-4.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "probfreecell-3-5.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 13
+        },
+        "probfreecell-4-1.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "probfreecell-4-2.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "probfreecell-4-3.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "probfreecell-4-4.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "probfreecell-4-5.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "probfreecell-5-1.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "probfreecell-5-4.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "probfreecell-5-5.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "probfreecell-6-1.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "probfreecell-6-2.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "probfreecell-6-3.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "probfreecell-6-4.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "probfreecell-6-5.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "probfreecell-7-1.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "probfreecell-7-2.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "probfreecell-7-3.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "probfreecell-7-4.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "probfreecell-7-5.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "probfreecell-8-1.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "probfreecell-8-2.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 39
+        },
+        "probfreecell-8-3.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "probfreecell-8-4.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "probfreecell-8-5.pddl": {
+            "opt_cost": 45,
+            "opt_plan_length": 45
+        },
+        "probfreecell-9-1.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "probfreecell-9-2.pddl": {
+            "opt_cost": 45,
+            "opt_plan_length": 45
+        },
+        "probfreecell-9-3.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 44
+        },
+        "probfreecell-9-4.pddl": {
+            "opt_cost": 49,
+            "opt_plan_length": 49
+        },
+        "probfreecell-9-5.pddl": {
+            "opt_cost": 52,
+            "opt_plan_length": 52
+        },
+        "probfreecell-5-2.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "probfreecell-5-3.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        }
+    },
+    "ged-opt14-strips": {
+        "d-1-2.pddl": {
+            "opt_cost": 1,
+            "opt_plan_length": 1
+        },
+        "d-1-3.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 13
+        },
+        "d-1-4.pddl": {
+            "opt_cost": 1,
+            "opt_plan_length": 1
+        },
+        "d-1-8.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 17
+        },
+        "d-2-1.pddl": {
+            "opt_cost": 1,
+            "opt_plan_length": 1
+        },
+        "d-2-3.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 12
+        },
+        "d-2-4.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 11
+        },
+        "d-2-8.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 18
+        },
+        "d-3-1.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 13
+        },
+        "d-3-2.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 12
+        },
+        "d-3-4.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 19
+        },
+        "d-4-2.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 11
+        },
+        "d-4-3.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 14
+        },
+        "d-4-8.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 19
+        },
+        "d-7-5.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 18
+        },
+        "d-7-6.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 13
+        },
+        "d-8-1.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 18
+        },
+        "d-8-2.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 19
+        },
+        "d-8-4.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 18
+        }
+    },
+    "grid": {
+        "prob01.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "prob02.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "prob04.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        }
+    },
+    "gripper": {
+        "prob01.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "prob02.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "prob03.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "prob04.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 29
+        },
+        "prob05.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "prob06.pddl": {
+            "opt_cost": 41,
+            "opt_plan_length": 41
+        },
+        "prob07.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "prob08.pddl": {
+            "opt_cost": 53,
+            "opt_plan_length": 53
+        }
+    },
+    "hiking-opt14-strips": {
+        "ptesting-1-2-3.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "ptesting-1-2-4.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "ptesting-1-2-5.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "ptesting-1-2-7.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "ptesting-1-2-8.pddl": {
+            "opt_cost": 45,
+            "opt_plan_length": 45
+        },
+        "ptesting-2-2-3.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "ptesting-2-2-4.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "ptesting-2-2-5.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "ptesting-2-2-6.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "ptesting-2-2-7.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "ptesting-2-2-8.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "ptesting-2-3-4.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "ptesting-2-3-5.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "ptesting-2-3-6.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "ptesting-2-3-7.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "ptesting-2-4-3.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "ptesting-2-4-4.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "ptesting-2-4-5.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "ptesting-2-4-6.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        }
+    },
+    "logistics00": {
+        "probLOGISTICS-10-0.pddl": {
+            "opt_cost": 45,
+            "opt_plan_length": 45
+        },
+        "probLOGISTICS-10-1.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "probLOGISTICS-11-0.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 48
+        },
+        "probLOGISTICS-11-1.pddl": {
+            "opt_cost": 60,
+            "opt_plan_length": 60
+        },
+        "probLOGISTICS-12-0.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "probLOGISTICS-12-1.pddl": {
+            "opt_cost": 68,
+            "opt_plan_length": 68
+        },
+        "probLOGISTICS-13-0.pddl": {
+            "opt_cost": 73,
+            "opt_plan_length": 73
+        },
+        "probLOGISTICS-13-1.pddl": {
+            "opt_cost": 64,
+            "opt_plan_length": 64
+        },
+        "probLOGISTICS-14-0.pddl": {
+            "opt_cost": 58,
+            "opt_plan_length": 58
+        },
+        "probLOGISTICS-14-1.pddl": {
+            "opt_cost": 71,
+            "opt_plan_length": 71
+        },
+        "probLOGISTICS-15-0.pddl": {
+            "opt_cost": 77,
+            "opt_plan_length": 77
+        },
+        "probLOGISTICS-15-1.pddl": {
+            "opt_cost": 67,
+            "opt_plan_length": 67
+        },
+        "probLOGISTICS-4-0.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "probLOGISTICS-4-1.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "probLOGISTICS-4-2.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "probLOGISTICS-5-0.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "probLOGISTICS-5-1.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "probLOGISTICS-5-2.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "probLOGISTICS-6-0.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "probLOGISTICS-6-1.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "probLOGISTICS-6-2.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "probLOGISTICS-6-9.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "probLOGISTICS-7-0.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        },
+        "probLOGISTICS-7-1.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 44
+        },
+        "probLOGISTICS-8-0.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 31
+        },
+        "probLOGISTICS-8-1.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 44
+        },
+        "probLOGISTICS-9-0.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        },
+        "probLOGISTICS-9-1.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        }
+    },
+    "logistics98": {
+        "prob01.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "prob02.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "prob04.pddl": {
+            "opt_cost": 58,
+            "opt_plan_length": 58
+        },
+        "prob05.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "prob06.pddl": {
+            "opt_cost": 69,
+            "opt_plan_length": 69
+        },
+        "prob07.pddl": {
+            "opt_cost": 33,
+            "opt_plan_length": 33
+        },
+        "prob08.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "prob11.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 29
+        },
+        "prob31.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 13
+        },
+        "prob32.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "prob33.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "prob34.pddl": {
+            "opt_cost": 45,
+            "opt_plan_length": 45
+        },
+        "prob35.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        }
+    },
+    "miconic": {
+        "s1-0.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "s1-1.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 3
+        },
+        "s1-2.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "s1-3.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "s1-4.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "s10-0.pddl": {
+            "opt_cost": 33,
+            "opt_plan_length": 33
+        },
+        "s10-1.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "s10-2.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "s10-3.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "s10-4.pddl": {
+            "opt_cost": 33,
+            "opt_plan_length": 33
+        },
+        "s11-0.pddl": {
+            "opt_cost": 37,
+            "opt_plan_length": 37
+        },
+        "s11-1.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "s11-2.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "s11-3.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "s11-4.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "s12-0.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "s12-1.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "s12-2.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "s12-3.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 39
+        },
+        "s12-4.pddl": {
+            "opt_cost": 41,
+            "opt_plan_length": 41
+        },
+        "s13-0.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 44
+        },
+        "s13-1.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "s13-2.pddl": {
+            "opt_cost": 46,
+            "opt_plan_length": 46
+        },
+        "s14-0.pddl": {
+            "opt_cost": 45,
+            "opt_plan_length": 45
+        },
+        "s14-1.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "s14-2.pddl": {
+            "opt_cost": 49,
+            "opt_plan_length": 49
+        },
+        "s14-3.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "s14-4.pddl": {
+            "opt_cost": 45,
+            "opt_plan_length": 45
+        },
+        "s15-0.pddl": {
+            "opt_cost": 46,
+            "opt_plan_length": 46
+        },
+        "s15-1.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 50
+        },
+        "s15-2.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 50
+        },
+        "s15-3.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 50
+        },
+        "s15-4.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "s16-0.pddl": {
+            "opt_cost": 53,
+            "opt_plan_length": 53
+        },
+        "s16-1.pddl": {
+            "opt_cost": 52,
+            "opt_plan_length": 52
+        },
+        "s16-2.pddl": {
+            "opt_cost": 55,
+            "opt_plan_length": 55
+        },
+        "s16-3.pddl": {
+            "opt_cost": 52,
+            "opt_plan_length": 52
+        },
+        "s16-4.pddl": {
+            "opt_cost": 53,
+            "opt_plan_length": 53
+        },
+        "s17-0.pddl": {
+            "opt_cost": 56,
+            "opt_plan_length": 56
+        },
+        "s17-1.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 54
+        },
+        "s17-2.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 54
+        },
+        "s17-3.pddl": {
+            "opt_cost": 60,
+            "opt_plan_length": 60
+        },
+        "s17-4.pddl": {
+            "opt_cost": 55,
+            "opt_plan_length": 55
+        },
+        "s18-0.pddl": {
+            "opt_cost": 59,
+            "opt_plan_length": 59
+        },
+        "s18-1.pddl": {
+            "opt_cost": 58,
+            "opt_plan_length": 58
+        },
+        "s18-2.pddl": {
+            "opt_cost": 58,
+            "opt_plan_length": 58
+        },
+        "s18-3.pddl": {
+            "opt_cost": 60,
+            "opt_plan_length": 60
+        },
+        "s18-4.pddl": {
+            "opt_cost": 57,
+            "opt_plan_length": 57
+        },
+        "s19-0.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 62
+        },
+        "s19-1.pddl": {
+            "opt_cost": 65,
+            "opt_plan_length": 65
+        },
+        "s19-2.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 63
+        },
+        "s19-3.pddl": {
+            "opt_cost": 64,
+            "opt_plan_length": 64
+        },
+        "s19-4.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 63
+        },
+        "s2-0.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "s2-1.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "s2-2.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "s2-3.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "s2-4.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "s20-0.pddl": {
+            "opt_cost": 64,
+            "opt_plan_length": 64
+        },
+        "s20-1.pddl": {
+            "opt_cost": 66,
+            "opt_plan_length": 66
+        },
+        "s20-2.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 63
+        },
+        "s20-3.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 63
+        },
+        "s20-4.pddl": {
+            "opt_cost": 65,
+            "opt_plan_length": 65
+        },
+        "s21-0.pddl": {
+            "opt_cost": 70,
+            "opt_plan_length": 70
+        },
+        "s21-1.pddl": {
+            "opt_cost": 69,
+            "opt_plan_length": 69
+        },
+        "s21-2.pddl": {
+            "opt_cost": 69,
+            "opt_plan_length": 69
+        },
+        "s21-3.pddl": {
+            "opt_cost": 67,
+            "opt_plan_length": 67
+        },
+        "s21-4.pddl": {
+            "opt_cost": 70,
+            "opt_plan_length": 70
+        },
+        "s22-0.pddl": {
+            "opt_cost": 73,
+            "opt_plan_length": 73
+        },
+        "s22-1.pddl": {
+            "opt_cost": 70,
+            "opt_plan_length": 70
+        },
+        "s22-2.pddl": {
+            "opt_cost": 71,
+            "opt_plan_length": 71
+        },
+        "s22-3.pddl": {
+            "opt_cost": 76,
+            "opt_plan_length": 76
+        },
+        "s22-4.pddl": {
+            "opt_cost": 72,
+            "opt_plan_length": 72
+        },
+        "s23-0.pddl": {
+            "opt_cost": 76,
+            "opt_plan_length": 76
+        },
+        "s23-2.pddl": {
+            "opt_cost": 73,
+            "opt_plan_length": 73
+        },
+        "s23-3.pddl": {
+            "opt_cost": 72,
+            "opt_plan_length": 72
+        },
+        "s23-4.pddl": {
+            "opt_cost": 74,
+            "opt_plan_length": 74
+        },
+        "s24-0.pddl": {
+            "opt_cost": 79,
+            "opt_plan_length": 79
+        },
+        "s24-1.pddl": {
+            "opt_cost": 78,
+            "opt_plan_length": 78
+        },
+        "s24-2.pddl": {
+            "opt_cost": 78,
+            "opt_plan_length": 78
+        },
+        "s24-3.pddl": {
+            "opt_cost": 80,
+            "opt_plan_length": 80
+        },
+        "s24-4.pddl": {
+            "opt_cost": 78,
+            "opt_plan_length": 78
+        },
+        "s25-0.pddl": {
+            "opt_cost": 81,
+            "opt_plan_length": 81
+        },
+        "s25-1.pddl": {
+            "opt_cost": 85,
+            "opt_plan_length": 85
+        },
+        "s25-2.pddl": {
+            "opt_cost": 79,
+            "opt_plan_length": 79
+        },
+        "s25-3.pddl": {
+            "opt_cost": 85,
+            "opt_plan_length": 85
+        },
+        "s25-4.pddl": {
+            "opt_cost": 83,
+            "opt_plan_length": 83
+        },
+        "s26-0.pddl": {
+            "opt_cost": 84,
+            "opt_plan_length": 84
+        },
+        "s26-1.pddl": {
+            "opt_cost": 84,
+            "opt_plan_length": 84
+        },
+        "s26-2.pddl": {
+            "opt_cost": 90,
+            "opt_plan_length": 90
+        },
+        "s26-3.pddl": {
+            "opt_cost": 88,
+            "opt_plan_length": 88
+        },
+        "s26-4.pddl": {
+            "opt_cost": 83,
+            "opt_plan_length": 83
+        },
+        "s27-1.pddl": {
+            "opt_cost": 91,
+            "opt_plan_length": 91
+        },
+        "s27-2.pddl": {
+            "opt_cost": 87,
+            "opt_plan_length": 87
+        },
+        "s27-3.pddl": {
+            "opt_cost": 89,
+            "opt_plan_length": 89
+        },
+        "s27-4.pddl": {
+            "opt_cost": 89,
+            "opt_plan_length": 89
+        },
+        "s28-0.pddl": {
+            "opt_cost": 95,
+            "opt_plan_length": 95
+        },
+        "s28-2.pddl": {
+            "opt_cost": 94,
+            "opt_plan_length": 94
+        },
+        "s28-3.pddl": {
+            "opt_cost": 87,
+            "opt_plan_length": 87
+        },
+        "s28-4.pddl": {
+            "opt_cost": 92,
+            "opt_plan_length": 92
+        },
+        "s29-0.pddl": {
+            "opt_cost": 94,
+            "opt_plan_length": 94
+        },
+        "s29-1.pddl": {
+            "opt_cost": 91,
+            "opt_plan_length": 91
+        },
+        "s29-2.pddl": {
+            "opt_cost": 95,
+            "opt_plan_length": 95
+        },
+        "s29-3.pddl": {
+            "opt_cost": 97,
+            "opt_plan_length": 97
+        },
+        "s29-4.pddl": {
+            "opt_cost": 99,
+            "opt_plan_length": 99
+        },
+        "s3-0.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "s3-1.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "s3-2.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "s3-3.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "s3-4.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "s30-0.pddl": {
+            "opt_cost": 95,
+            "opt_plan_length": 95
+        },
+        "s30-1.pddl": {
+            "opt_cost": 98,
+            "opt_plan_length": 98
+        },
+        "s30-2.pddl": {
+            "opt_cost": 97,
+            "opt_plan_length": 97
+        },
+        "s30-4.pddl": {
+            "opt_cost": 99,
+            "opt_plan_length": 99
+        },
+        "s4-0.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "s4-1.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 13
+        },
+        "s4-2.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "s4-3.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "s4-4.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "s5-0.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "s5-1.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "s5-2.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "s5-3.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "s5-4.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "s6-0.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "s6-1.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "s6-2.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "s6-3.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "s6-4.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "s7-0.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "s7-1.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "s7-2.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "s7-3.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "s7-4.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "s8-0.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "s8-1.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "s8-2.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "s8-3.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "s8-4.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "s9-0.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 31
+        },
+        "s9-1.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "s9-2.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "s9-3.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "s9-4.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "s13-3.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
+        },
+        "s13-4.pddl": {
+            "opt_cost": 41,
+            "opt_plan_length": 41
+        }
+    },
+    "movie": {
+        "prob01.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob02.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob03.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob04.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob05.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob06.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob07.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob08.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob09.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob10.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob11.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob12.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob13.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob14.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob15.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob16.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob17.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob18.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob19.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob20.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob21.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob22.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob23.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob24.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob25.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob26.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob27.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob28.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob29.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob30.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        }
+    },
+    "mprime": {
+        "prob01.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 5
+        },
+        "prob02.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob03.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob04.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "prob05.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "prob06.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "prob07.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 5
+        },
+        "prob08.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob09.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "prob10.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "prob11.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob12.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob14.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "prob15.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob16.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob21.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob24.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "prob25.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob26.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob27.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 5
+        },
+        "prob28.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob29.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob30.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        },
+        "prob31.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob32.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob33.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "prob34.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob35.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 5
+        },
+        "prob17.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob19.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob20.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        }
+    },
+    "mystery": {
+        "prob01.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 5
+        },
+        "prob02.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob03.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob06.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "prob09.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "prob10.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "prob11.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob13.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "prob14.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "prob15.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob17.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob19.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob20.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob25.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob26.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "prob27.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 5
+        },
+        "prob28.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "prob29.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "prob30.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        }
+    },
+    "nomystery-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p02.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p03.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "p04.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p05.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p06.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "p07.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p08.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "p09.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "p10.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "p11.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "p12.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p13.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "p14.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p15.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p16.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "p17.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p18.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "p19.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "p20.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        }
+    },
+    "openstacks-opt08-strips": {
+        "p01.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 17
+        },
+        "p02.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 20
+        },
+        "p03.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 23
+        },
+        "p04.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 27
+        },
+        "p05.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 31
+        },
+        "p06.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 32
+        },
+        "p07.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 38
+        },
+        "p08.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 41
+        },
+        "p09.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 42
+        },
+        "p10.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 45
+        },
+        "p11.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 49
+        },
+        "p12.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 51
+        },
+        "p13.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 55
+        },
+        "p14.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 58
+        },
+        "p15.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 61
+        },
+        "p16.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 64
+        },
+        "p17.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 67
+        },
+        "p18.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 69
+        },
+        "p19.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 73
+        },
+        "p20.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 76
+        },
+        "p21.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 78
+        },
+        "p22.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 82
+        },
+        "p23.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 85
+        },
+        "p25.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 91
+        },
+        "p28.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 100
+        }
+    },
+    "openstacks-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 32
+        },
+        "p03.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 41
+        },
+        "p04.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 42
+        },
+        "p05.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 45
+        },
+        "p06.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 49
+        },
+        "p07.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 51
+        },
+        "p08.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 55
+        },
+        "p09.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 58
+        },
+        "p10.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 82
+        },
+        "p11.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 61
+        },
+        "p12.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 64
+        },
+        "p13.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 67
+        },
+        "p14.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 69
+        },
+        "p15.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 73
+        },
+        "p16.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 78
+        },
+        "p17.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 76
+        },
+        "p18.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 85
+        },
+        "p20.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 91
+        },
+        "p02.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 38
+        }
+    },
+    "openstacks-opt14-strips": {
+        "p20_1.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 63
+        },
+        "p20_2.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 64
+        },
+        "p20_3.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 66
+        },
+        "p25_3.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 84
+        }
+    },
+    "openstacks-strips": {
+        "p01.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p02.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p03.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p04.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p05.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p06.pddl": {
+            "opt_cost": 45,
+            "opt_plan_length": 45
+        },
+        "p07.pddl": {
+            "opt_cost": 46,
+            "opt_plan_length": 46
+        },
+        "p08.pddl": {
+            "opt_cost": 87,
+            "opt_plan_length": 87
+        },
+        "p09.pddl": {
+            "opt_cost": 87,
+            "opt_plan_length": 87
+        },
+        "p10.pddl": {
+            "opt_cost": 89,
+            "opt_plan_length": 89
+        },
+        "p11.pddl": {
+            "opt_cost": 89,
+            "opt_plan_length": 89
+        },
+        "p12.pddl": {
+            "opt_cost": 92,
+            "opt_plan_length": 92
+        },
+        "p14.pddl": {
+            "opt_cost": 95,
+            "opt_plan_length": 95
+        },
+        "p15.pddl": {
+            "opt_cost": 93,
+            "opt_plan_length": 93
+        },
+        "p16.pddl": {
+            "opt_cost": 94,
+            "opt_plan_length": 94
+        }
+    },
+    "organic-synthesis-opt18-strips": {
+        "p01.pddl": {
+            "opt_cost": 1,
+            "opt_plan_length": 1
+        },
+        "p02.pddl": {
+            "opt_cost": 1,
+            "opt_plan_length": 1
+        },
+        "p03.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 2
+        },
+        "p07.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 2
+        },
+        "p09.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 2
+        },
+        "p10.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 2
+        },
+        "p14.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 2
+        }
+    },
+    "organic-synthesis-split-opt18-strips": {
+        "p01.pddl": {
+            "opt_cost": 41,
+            "opt_plan_length": 10
+        },
+        "p02.pddl": {
+            "opt_cost": 41,
+            "opt_plan_length": 15
+        },
+        "p03.pddl": {
+            "opt_cost": 252,
+            "opt_plan_length": 37
+        },
+        "p04.pddl": {
+            "opt_cost": 252,
+            "opt_plan_length": 20
+        },
+        "p05.pddl": {
+            "opt_cost": 252,
+            "opt_plan_length": 23
+        },
+        "p06.pddl": {
+            "opt_cost": 252,
+            "opt_plan_length": 32
+        },
+        "p07.pddl": {
+            "opt_cost": 252,
+            "opt_plan_length": 16
+        },
+        "p08.pddl": {
+            "opt_cost": 252,
+            "opt_plan_length": 43
+        },
+        "p09.pddl": {
+            "opt_cost": 82,
+            "opt_plan_length": 28
+        },
+        "p10.pddl": {
+            "opt_cost": 82,
+            "opt_plan_length": 28
+        },
+        "p11.pddl": {
+            "opt_cost": 82,
+            "opt_plan_length": 53
+        },
+        "p12.pddl": {
+            "opt_cost": 82,
+            "opt_plan_length": 59
+        },
+        "p14.pddl": {
+            "opt_cost": 82,
+            "opt_plan_length": 26
+        },
+        "p19.pddl": {
+            "opt_cost": 504,
+            "opt_plan_length": 80
+        }
+    },
+    "parcprinter-08-strips": {
+        "p01.pddl": {
+            "opt_cost": 169009,
+            "opt_plan_length": 11
+        },
+        "p03.pddl": {
+            "opt_cost": 807114,
+            "opt_plan_length": 22
+        },
+        "p04.pddl": {
+            "opt_cost": 876094,
+            "opt_plan_length": 35
+        },
+        "p05.pddl": {
+            "opt_cost": 1145132,
+            "opt_plan_length": 42
+        },
+        "p06.pddl": {
+            "opt_cost": 1514199,
+            "opt_plan_length": 46
+        },
+        "p07.pddl": {
+            "opt_cost": 1383121,
+            "opt_plan_length": 65
+        },
+        "p08.pddl": {
+            "opt_cost": 1852217,
+            "opt_plan_length": 66
+        },
+        "p09.pddl": {
+            "opt_cost": 2121255,
+            "opt_plan_length": 73
+        },
+        "p10.pddl": {
+            "opt_cost": 2490322,
+            "opt_plan_length": 77
+        },
+        "p11.pddl": {
+            "opt_cost": 182808,
+            "opt_plan_length": 9
+        },
+        "p12.pddl": {
+            "opt_cost": 510256,
+            "opt_plan_length": 17
+        },
+        "p13.pddl": {
+            "opt_cost": 693064,
+            "opt_plan_length": 25
+        },
+        "p14.pddl": {
+            "opt_cost": 1020512,
+            "opt_plan_length": 33
+        },
+        "p15.pddl": {
+            "opt_cost": 1695507,
+            "opt_plan_length": 49
+        },
+        "p16.pddl": {
+            "opt_cost": 1675408,
+            "opt_plan_length": 49
+        },
+        "p17.pddl": {
+            "opt_cost": 1713576,
+            "opt_plan_length": 57
+        },
+        "p18.pddl": {
+            "opt_cost": 2330304,
+            "opt_plan_length": 65
+        },
+        "p19.pddl": {
+            "opt_cost": 3353256,
+            "opt_plan_length": 89
+        },
+        "p20.pddl": {
+            "opt_cost": 2754187,
+            "opt_plan_length": 89
+        },
+        "p21.pddl": {
+            "opt_cost": 143411,
+            "opt_plan_length": 8
+        },
+        "p22.pddl": {
+            "opt_cost": 375821,
+            "opt_plan_length": 15
+        },
+        "p23.pddl": {
+            "opt_cost": 519232,
+            "opt_plan_length": 22
+        },
+        "p24.pddl": {
+            "opt_cost": 751642,
+            "opt_plan_length": 29
+        },
+        "p25.pddl": {
+            "opt_cost": 1215839,
+            "opt_plan_length": 40
+        },
+        "p26.pddl": {
+            "opt_cost": 1216462,
+            "opt_plan_length": 43
+        },
+        "p27.pddl": {
+            "opt_cost": 1270874,
+            "opt_plan_length": 50
+        },
+        "p28.pddl": {
+            "opt_cost": 1681282,
+            "opt_plan_length": 57
+        },
+        "p29.pddl": {
+            "opt_cost": 2377265,
+            "opt_plan_length": 72
+        },
+        "p30.pddl": {
+            "opt_cost": 2021893,
+            "opt_plan_length": 75
+        },
+        "p02.pddl": {
+            "opt_cost": 438047,
+            "opt_plan_length": 18
+        }
+    },
+    "parcprinter-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 375821,
+            "opt_plan_length": 15
+        },
+        "p02.pddl": {
+            "opt_cost": 438047,
+            "opt_plan_length": 18
+        },
+        "p03.pddl": {
+            "opt_cost": 510256,
+            "opt_plan_length": 17
+        },
+        "p04.pddl": {
+            "opt_cost": 876094,
+            "opt_plan_length": 35
+        },
+        "p05.pddl": {
+            "opt_cost": 519232,
+            "opt_plan_length": 22
+        },
+        "p06.pddl": {
+            "opt_cost": 1514199,
+            "opt_plan_length": 46
+        },
+        "p07.pddl": {
+            "opt_cost": 1145132,
+            "opt_plan_length": 42
+        },
+        "p08.pddl": {
+            "opt_cost": 751642,
+            "opt_plan_length": 29
+        },
+        "p09.pddl": {
+            "opt_cost": 693064,
+            "opt_plan_length": 25
+        },
+        "p10.pddl": {
+            "opt_cost": 1215839,
+            "opt_plan_length": 40
+        },
+        "p11.pddl": {
+            "opt_cost": 1216462,
+            "opt_plan_length": 43
+        },
+        "p12.pddl": {
+            "opt_cost": 1020512,
+            "opt_plan_length": 33
+        },
+        "p13.pddl": {
+            "opt_cost": 1383121,
+            "opt_plan_length": 65
+        },
+        "p14.pddl": {
+            "opt_cost": 1852217,
+            "opt_plan_length": 66
+        },
+        "p15.pddl": {
+            "opt_cost": 2121255,
+            "opt_plan_length": 73
+        },
+        "p16.pddl": {
+            "opt_cost": 2490322,
+            "opt_plan_length": 77
+        },
+        "p17.pddl": {
+            "opt_cost": 1695507,
+            "opt_plan_length": 49
+        },
+        "p18.pddl": {
+            "opt_cost": 1675408,
+            "opt_plan_length": 49
+        },
+        "p19.pddl": {
+            "opt_cost": 1713576,
+            "opt_plan_length": 57
+        },
+        "p20.pddl": {
+            "opt_cost": 1270874,
+            "opt_plan_length": 50
+        }
+    },
+    "parking-opt11-strips": {
+        "pfile03-011.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "pfile03-012.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "pfile04-013.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "pfile04-015.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "pfile04-016.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "pfile05-017.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "pfile05-018.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "pfile05-020.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        }
+    },
+    "parking-opt14-strips": {
+        "p_12_7-01.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p_12_7-02.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p_12_7-03.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p_12_7-04.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p_14_8-01.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p_14_8-02.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p_14_8-03.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p_16_9-01.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p_18_10-03.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        }
+    },
+    "pathways": {
+        "p01.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "p02.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "p03.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p04.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p05.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        }
+    },
+    "pegsol-08-strips": {
+        "p01.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 5
+        },
+        "p02.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 9
+        },
+        "p03.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 9
+        },
+        "p04.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 10
+        },
+        "p05.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 11
+        },
+        "p06.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 12
+        },
+        "p07.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 12
+        },
+        "p08.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 16
+        },
+        "p09.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 15
+        },
+        "p10.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 17
+        },
+        "p11.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 18
+        },
+        "p12.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 20
+        },
+        "p13.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 21
+        },
+        "p14.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 20
+        },
+        "p15.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 21
+        },
+        "p16.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 21
+        },
+        "p17.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 24
+        },
+        "p18.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 21
+        },
+        "p19.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 22
+        },
+        "p20.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 22
+        },
+        "p21.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 23
+        },
+        "p22.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 21
+        },
+        "p23.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 24
+        },
+        "p24.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 25
+        },
+        "p25.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 25
+        },
+        "p26.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 27
+        },
+        "p27.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 28
+        },
+        "p28.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 35
+        },
+        "p29.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 37
+        },
+        "p30.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 48
+        }
+    },
+    "pegsol-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 16
+        },
+        "p02.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 24
+        },
+        "p03.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 21
+        },
+        "p04.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 22
+        },
+        "p05.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 26
+        },
+        "p06.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 23
+        },
+        "p07.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 21
+        },
+        "p08.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 22
+        },
+        "p09.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 23
+        },
+        "p10.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 23
+        },
+        "p11.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 21
+        },
+        "p12.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 26
+        },
+        "p13.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 24
+        },
+        "p14.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 25
+        },
+        "p15.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 25
+        },
+        "p16.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 27
+        },
+        "p17.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 28
+        },
+        "p18.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 35
+        },
+        "p19.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 37
+        },
+        "p20.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 48
+        }
+    },
+    "petri-net-alignment-opt18-strips": {
+        "p01.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 166
+        },
+        "p02.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 231
+        },
+        "p03.pddl": {
+            "opt_cost": 64,
+            "opt_plan_length": 309
+        },
+        "p04.pddl": {
+            "opt_cost": 79,
+            "opt_plan_length": 314
+        },
+        "p05.pddl": {
+            "opt_cost": 66,
+            "opt_plan_length": 207
+        },
+        "p06.pddl": {
+            "opt_cost": 95,
+            "opt_plan_length": 301
+        },
+        "p07.pddl": {
+            "opt_cost": 106,
+            "opt_plan_length": 277
+        },
+        "p08.pddl": {
+            "opt_cost": 111,
+            "opt_plan_length": 294
+        },
+        "p09.pddl": {
+            "opt_cost": 132,
+            "opt_plan_length": 276
+        },
+        "p11.pddl": {
+            "opt_cost": 155,
+            "opt_plan_length": 310
+        },
+        "p12.pddl": {
+            "opt_cost": 187,
+            "opt_plan_length": 472
+        }
+    },
+    "pipesworld-notankage": {
+        "p01-net1-b6-g2.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 5
+        },
+        "p02-net1-b6-g4.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "p03-net1-b8-g3.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p04-net1-b8-g5.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p05-net1-b10-g4.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p06-net1-b10-g6.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p07-net1-b12-g5.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p08-net1-b12-g7.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p09-net1-b14-g6.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 13
+        },
+        "p10-net1-b14-g8.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p11-net2-b10-g2.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "p12-net2-b10-g4.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p13-net2-b12-g3.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "p14-net2-b12-g5.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p15-net2-b14-g4.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "p16-net2-b14-g6.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "p17-net2-b16-g5.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p18-net2-b16-g7.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p19-net2-b18-g6.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p20-net2-b18-g8.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "p21-net3-b12-g2.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p22-net3-b12-g4.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p23-net3-b14-g3.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p24-net3-b14-g5.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p31-net4-b14-g3.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p32-net4-b14-g5.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p41-net5-b22-g2.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        }
+    },
+    "pipesworld-tankage": {
+        "p01-net1-b6-g2-t50.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 5
+        },
+        "p02-net1-b6-g4-t50.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "p03-net1-b8-g3-t80.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p04-net1-b8-g5-t80.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p05-net1-b10-g4-t50.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p06-net1-b10-g6-t50.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p07-net1-b12-g5-t80.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p08-net1-b12-g7-t80.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p09-net1-b14-g6-t50.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p10-net1-b14-g8-t50.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p11-net2-b10-g2-t30.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p12-net2-b10-g4-t60.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p13-net2-b12-g3-t70.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "p15-net2-b14-g4-t30.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p17-net2-b16-g5-t20.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 44
+        },
+        "p21-net3-b12-g2-t60.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p22-net3-b12-g4-t60.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p31-net4-b14-g3-t20.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 39
+        },
+        "p41-net5-b22-g2-t20.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        }
+    },
+    "psr-small": {
+        "p01-s2-n1-l2-f50.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p02-s5-n1-l3-f30.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p03-s7-n1-l3-f70.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p04-s8-n1-l4-f10.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p05-s9-n1-l4-f30.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p06-s10-n1-l4-f50.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p07-s11-n1-l4-f70.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p08-s12-n1-l5-f10.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p09-s13-n1-l5-f30.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p10-s17-n2-l2-f30.pddl": {
+            "opt_cost": 7,
+            "opt_plan_length": 7
+        },
+        "p11-s18-n2-l2-f50.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p12-s21-n2-l3-f30.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "p13-s22-n2-l3-f50.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "p14-s23-n2-l3-f70.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        },
+        "p15-s24-n2-l4-f10.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p16-s29-n2-l5-f30.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p17-s30-n2-l5-f50.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        },
+        "p18-s31-n2-l5-f70.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "p19-s33-n3-l2-f30.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p20-s34-n3-l2-f50.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p21-s35-n3-l2-f70.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p22-s37-n3-l3-f30.pddl": {
+            "opt_cost": 33,
+            "opt_plan_length": 33
+        },
+        "p23-s38-n3-l3-f50.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "p24-s39-n3-l3-f70.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p25-s40-n3-l4-f10.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        },
+        "p26-s41-n3-l4-f30.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p27-s42-n3-l4-f50.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p28-s43-n3-l4-f70.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p29-s45-n3-l5-f30.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p30-s46-n3-l5-f50.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p31-s49-n4-l2-f30.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p32-s50-n4-l2-f50.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p33-s51-n4-l2-f70.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p34-s55-n4-l3-f70.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p35-s57-n5-l2-f30.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p36-s65-n6-l2-f30.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p37-s67-n6-l2-f70.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p38-s78-n3-l3-f50.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 13
+        },
+        "p39-s79-n3-l3-f70.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p40-s80-n3-l4-f10.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "p41-s81-n3-l4-f30.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p42-s82-n3-l4-f50.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p43-s83-n3-l4-f70.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "p44-s89-n4-l2-f30.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p45-s94-n4-l3-f50.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "p46-s97-n5-l2-f30.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "p47-s98-n5-l2-f50.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "p48-s101-n5-l3-f30.pddl": {
+            "opt_cost": 37,
+            "opt_plan_length": 37
+        },
+        "p49-s105-n6-l2-f30.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "p50-s107-n6-l2-f70.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        }
+    },
+    "rovers": {
+        "p01.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p02.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p03.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p04.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p05.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p06.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        },
+        "p07.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p08.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "p09.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 31
+        },
+        "p11.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p12.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p14.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "p15.pddl": {
+            "opt_cost": 41,
+            "opt_plan_length": 41
+        }
+    },
+    "satellite": {
+        "p01-pfile1.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        },
+        "p02-pfile2.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 13
+        },
+        "p03-pfile3.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p04-pfile4.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p05-pfile5.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "p06-pfile6.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "p07-pfile7.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p08-pfile8.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "p09-pfile9.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "p10-pfile10.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 29
+        },
+        "p11-pfile11.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 31
+        },
+        "p12-pfile12.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
+        }
+    },
+    "scanalyzer-08-strips": {
+        "p01.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 6
+        },
+        "p02.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 10
+        },
+        "p03.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 14
+        },
+        "p04.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 8
+        },
+        "p05.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 14
+        },
+        "p06.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 20
+        },
+        "p07.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 10
+        },
+        "p08.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 18
+        },
+        "p10.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 12
+        },
+        "p13.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 14
+        },
+        "p16.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 16
+        },
+        "p19.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 18
+        },
+        "p22.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 5
+        },
+        "p23.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 5
+        },
+        "p24.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 5
+        },
+        "p25.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 10
+        },
+        "p26.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 14
+        },
+        "p27.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 18
+        },
+        "p28.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 15
+        }
+    },
+    "scanalyzer-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 5
+        },
+        "p02.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 10
+        },
+        "p03.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 14
+        },
+        "p04.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 8
+        },
+        "p05.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 10
+        },
+        "p06.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 14
+        },
+        "p07.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 18
+        },
+        "p08.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 12
+        },
+        "p09.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 14
+        },
+        "p10.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 16
+        },
+        "p11.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 10
+        },
+        "p12.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 20
+        },
+        "p13.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 18
+        },
+        "p14.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 14
+        },
+        "p15.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 18
+        },
+        "p20.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 15
+        }
+    },
+    "snake-opt18-strips": {
+        "p01.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p02.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "p03.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
+        },
+        "p04.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "p05.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p06.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 31
+        },
+        "p07.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 48
+        },
+        "p08.pddl": {
+            "opt_cost": 58,
+            "opt_plan_length": 58
+        },
+        "p09.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "p10.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "p11.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        },
+        "p12.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "p15.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p16.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "p20.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        }
+    },
+    "sokoban-opt08-strips": {
+        "p01.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 49
+        },
+        "p02.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 35
+        },
+        "p03.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 51
+        },
+        "p04.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 145
+        },
+        "p05.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 25
+        },
+        "p06.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 35
+        },
+        "p07.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 87
+        },
+        "p08.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 102
+        },
+        "p09.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 90
+        },
+        "p10.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 111
+        },
+        "p11.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 285
+        },
+        "p12.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 118
+        },
+        "p13.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 86
+        },
+        "p14.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 99
+        },
+        "p15.pddl": {
+            "opt_cost": 76,
+            "opt_plan_length": 372
+        },
+        "p16.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 166
+        },
+        "p17.pddl": {
+            "opt_cost": 37,
+            "opt_plan_length": 116
+        },
+        "p18.pddl": {
+            "opt_cost": 49,
+            "opt_plan_length": 236
+        },
+        "p19.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 224
+        },
+        "p20.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 429
+        },
+        "p21.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 44
+        },
+        "p22.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 216
+        },
+        "p23.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 99
+        },
+        "p24.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 239
+        },
+        "p25.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 189
+        },
+        "p26.pddl": {
+            "opt_cost": 33,
+            "opt_plan_length": 231
+        },
+        "p27.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 122
+        },
+        "p28.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 185
+        },
+        "p29.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 49
+        },
+        "p30.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 91
+        }
+    },
+    "sokoban-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 35
+        },
+        "p02.pddl": {
+            "opt_cost": 37,
+            "opt_plan_length": 116
+        },
+        "p03.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 99
+        },
+        "p04.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 145
+        },
+        "p05.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 166
+        },
+        "p06.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 285
+        },
+        "p07.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 111
+        },
+        "p08.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 90
+        },
+        "p09.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 87
+        },
+        "p10.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 25
+        },
+        "p11.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 86
+        },
+        "p12.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 429
+        },
+        "p13.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 102
+        },
+        "p14.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 120
+        },
+        "p15.pddl": {
+            "opt_cost": 49,
+            "opt_plan_length": 236
+        },
+        "p16.pddl": {
+            "opt_cost": 76,
+            "opt_plan_length": 372
+        },
+        "p17.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 224
+        },
+        "p18.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 44
+        },
+        "p19.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 214
+        },
+        "p20.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 145
+        }
+    },
+    "spider-opt18-strips": {
+        "p01.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 71
+        },
+        "p02.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 108
+        },
+        "p03.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 117
+        },
+        "p04.pddl": {
+            "opt_cost": 31,
+            "opt_plan_length": 170
+        },
+        "p05.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 263
+        },
+        "p06.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 257
+        },
+        "p07.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 63
+        },
+        "p08.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 96
+        },
+        "p09.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 122
+        },
+        "p10.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 141
+        },
+        "p11.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 157
+        },
+        "p12.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 210
+        },
+        "p13.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 212
+        },
+        "p14.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 54
+        },
+        "p15.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 77
+        },
+        "p16.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 91
+        },
+        "p17.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 111
+        },
+        "p18.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 136
+        }
+    },
+    "storage": {
+        "p01.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 3
+        },
+        "p02.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 3
+        },
+        "p03.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 3
+        },
+        "p04.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p05.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p06.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p07.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p08.pddl": {
+            "opt_cost": 12,
+            "opt_plan_length": 12
+        },
+        "p09.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p10.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p11.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p12.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "p13.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p14.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p15.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p16.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        }
+    },
+    "termes-opt18-strips": {
+        "p01.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        },
+        "p02.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 54
+        },
+        "p03.pddl": {
+            "opt_cost": 68,
+            "opt_plan_length": 68
+        },
+        "p04.pddl": {
+            "opt_cost": 80,
+            "opt_plan_length": 80
+        },
+        "p05.pddl": {
+            "opt_cost": 132,
+            "opt_plan_length": 132
+        },
+        "p11.pddl": {
+            "opt_cost": 66,
+            "opt_plan_length": 66
+        },
+        "p12.pddl": {
+            "opt_cost": 46,
+            "opt_plan_length": 46
+        },
+        "p13.pddl": {
+            "opt_cost": 92,
+            "opt_plan_length": 92
+        },
+        "p14.pddl": {
+            "opt_cost": 104,
+            "opt_plan_length": 104
+        },
+        "p15.pddl": {
+            "opt_cost": 140,
+            "opt_plan_length": 140
+        },
+        "p17.pddl": {
+            "opt_cost": 116,
+            "opt_plan_length": 116
+        },
+        "p18.pddl": {
+            "opt_cost": 76,
+            "opt_plan_length": 76
+        },
+        "p19.pddl": {
+            "opt_cost": 94,
+            "opt_plan_length": 94
+        },
+        "p20.pddl": {
+            "opt_cost": 106,
+            "opt_plan_length": 106
+        }
+    },
+    "tetris-opt14-strips": {
+        "p01-6.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 18
+        },
+        "p01-8.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 16
+        },
+        "p02-4.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 6
+        },
+        "p02-6.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 15
+        },
+        "p02-8.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 21
+        },
+        "p03-4.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 9
+        },
+        "p03-6.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 16
+        },
+        "p03-8.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 20
+        },
+        "p04-6.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 17
+        },
+        "p04-8.pddl": {
+            "opt_cost": 56,
+            "opt_plan_length": 28
+        },
+        "p05-10.pddl": {
+            "opt_cost": 66,
+            "opt_plan_length": 28
+        },
+        "p05-6.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 13
+        },
+        "p05-8.pddl": {
+            "opt_cost": 60,
+            "opt_plan_length": 32
+        }
+    },
+    "tidybot-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 4
+        },
+        "p02.pddl": {
+            "opt_cost": 33,
+            "opt_plan_length": 33
+        },
+        "p03.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "p04.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "p05.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "p06.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "p07.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p08.pddl": {
+            "opt_cost": 37,
+            "opt_plan_length": 37
+        },
+        "p09.pddl": {
+            "opt_cost": 27,
+            "opt_plan_length": 27
+        },
+        "p10.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 29
+        },
+        "p11.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 29
+        },
+        "p12.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "p13.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p14.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p16.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "p17.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "p18.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 44
+        },
+        "p20.pddl": {
+            "opt_cost": 46,
+            "opt_plan_length": 46
+        }
+    },
+    "tidybot-opt14-strips": {
+        "p02.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "p03.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p04.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p07.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "p08.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p09.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "p10.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "p11.pddl": {
+            "opt_cost": 29,
+            "opt_plan_length": 29
+        },
+        "p12.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "p13.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p14.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p16.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "p17.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "p18.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 44
+        },
+        "p20.pddl": {
+            "opt_cost": 46,
+            "opt_plan_length": 46
+        }
+    },
+    "tpp": {
+        "p01.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 5
+        },
+        "p02.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p03.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p04.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p05.pddl": {
+            "opt_cost": 19,
+            "opt_plan_length": 19
+        },
+        "p06.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p07.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "p08.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "p09.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 48
+        },
+        "p10.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 54
+        },
+        "p11.pddl": {
+            "opt_cost": 51,
+            "opt_plan_length": 51
+        },
+        "p12.pddl": {
+            "opt_cost": 51,
+            "opt_plan_length": 51
+        }
+    },
+    "transport-opt08-strips": {
+        "p01.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 5
+        },
+        "p02.pddl": {
+            "opt_cost": 131,
+            "opt_plan_length": 12
+        },
+        "p03.pddl": {
+            "opt_cost": 250,
+            "opt_plan_length": 17
+        },
+        "p04.pddl": {
+            "opt_cost": 318,
+            "opt_plan_length": 22
+        },
+        "p05.pddl": {
+            "opt_cost": 332,
+            "opt_plan_length": 29
+        },
+        "p07.pddl": {
+            "opt_cost": 417,
+            "opt_plan_length": 35
+        },
+        "p11.pddl": {
+            "opt_cost": 456,
+            "opt_plan_length": 9
+        },
+        "p12.pddl": {
+            "opt_cost": 594,
+            "opt_plan_length": 16
+        },
+        "p13.pddl": {
+            "opt_cost": 550,
+            "opt_plan_length": 21
+        },
+        "p14.pddl": {
+            "opt_cost": 941,
+            "opt_plan_length": 29
+        },
+        "p21.pddl": {
+            "opt_cost": 478,
+            "opt_plan_length": 7
+        },
+        "p22.pddl": {
+            "opt_cost": 632,
+            "opt_plan_length": 12
+        },
+        "p23.pddl": {
+            "opt_cost": 630,
+            "opt_plan_length": 17
+        },
+        "p24.pddl": {
+            "opt_cost": 614,
+            "opt_plan_length": 19
+        },
+        "p25.pddl": {
+            "opt_cost": 970,
+            "opt_plan_length": 30
+        }
+    },
+    "transport-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 630,
+            "opt_plan_length": 17
+        },
+        "p02.pddl": {
+            "opt_cost": 250,
+            "opt_plan_length": 17
+        },
+        "p03.pddl": {
+            "opt_cost": 594,
+            "opt_plan_length": 16
+        },
+        "p04.pddl": {
+            "opt_cost": 550,
+            "opt_plan_length": 21
+        },
+        "p05.pddl": {
+            "opt_cost": 614,
+            "opt_plan_length": 19
+        },
+        "p06.pddl": {
+            "opt_cost": 318,
+            "opt_plan_length": 22
+        },
+        "p07.pddl": {
+            "opt_cost": 282,
+            "opt_plan_length": 27
+        },
+        "p08.pddl": {
+            "opt_cost": 322,
+            "opt_plan_length": 27
+        },
+        "p13.pddl": {
+            "opt_cost": 440,
+            "opt_plan_length": 40
+        },
+        "p15.pddl": {
+            "opt_cost": 1079,
+            "opt_plan_length": 37
+        },
+        "p17.pddl": {
+            "opt_cost": 332,
+            "opt_plan_length": 29
+        },
+        "p18.pddl": {
+            "opt_cost": 941,
+            "opt_plan_length": 29
+        },
+        "p19.pddl": {
+            "opt_cost": 970,
+            "opt_plan_length": 30
+        }
+    },
+    "transport-opt14-strips": {
+        "p01.pddl": {
+            "opt_cost": 148,
+            "opt_plan_length": 13
+        },
+        "p02.pddl": {
+            "opt_cost": 191,
+            "opt_plan_length": 18
+        },
+        "p03.pddl": {
+            "opt_cost": 300,
+            "opt_plan_length": 22
+        },
+        "p04.pddl": {
+            "opt_cost": 250,
+            "opt_plan_length": 21
+        },
+        "p05.pddl": {
+            "opt_cost": 392,
+            "opt_plan_length": 30
+        },
+        "p06.pddl": {
+            "opt_cost": 436,
+            "opt_plan_length": 33
+        },
+        "p07.pddl": {
+            "opt_cost": 967,
+            "opt_plan_length": 25
+        },
+        "p08.pddl": {
+            "opt_cost": 1173,
+            "opt_plan_length": 36
+        },
+        "p09.pddl": {
+            "opt_cost": 966,
+            "opt_plan_length": 35
+        },
+        "p13.pddl": {
+            "opt_cost": 594,
+            "opt_plan_length": 20
+        },
+        "p14.pddl": {
+            "opt_cost": 526,
+            "opt_plan_length": 24
+        },
+        "p15.pddl": {
+            "opt_cost": 753,
+            "opt_plan_length": 31
+        }
+    },
+    "trucks-strips": {
+        "p01.pddl": {
+            "opt_cost": 13,
+            "opt_plan_length": 13
+        },
+        "p02.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p03.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "p04.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p05.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p06.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        },
+        "p07.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "p08.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p09.pddl": {
+            "opt_cost": 28,
+            "opt_plan_length": 28
+        },
+        "p10.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "p11.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "p12.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "p13.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
+        },
+        "p14.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        },
+        "p15.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "p16.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "p17.pddl": {
+            "opt_cost": 46,
+            "opt_plan_length": 46
+        },
+        "p19.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
+        },
+        "p20.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        }
+    },
+    "visitall-opt11-strips": {
+        "problem02-full.pddl": {
+            "opt_cost": 3,
+            "opt_plan_length": 3
+        },
+        "problem02-half.pddl": {
+            "opt_cost": 1,
+            "opt_plan_length": 1
+        },
+        "problem03-full.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "problem03-half.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "problem04-full.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "problem04-half.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "problem05-full.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "problem05-half.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "problem06-full.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "problem06-half.pddl": {
+            "opt_cost": 23,
+            "opt_plan_length": 23
+        },
+        "problem07-full.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 48
+        },
+        "problem07-half.pddl": {
+            "opt_cost": 36,
+            "opt_plan_length": 36
+        },
+        "problem08-full.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 63
+        },
+        "problem08-half.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
+        },
+        "problem09-full.pddl": {
+            "opt_cost": 80,
+            "opt_plan_length": 80
+        },
+        "problem10-full.pddl": {
+            "opt_cost": 99,
+            "opt_plan_length": 99
+        },
+        "problem10-half.pddl": {
+            "opt_cost": 64,
+            "opt_plan_length": 64
+        },
+        "problem11-full.pddl": {
+            "opt_cost": 120,
+            "opt_plan_length": 120
+        }
+    },
+    "visitall-opt14-strips": {
+        "p-05-10.pddl": {
+            "opt_cost": 60,
+            "opt_plan_length": 60
+        },
+        "p-05-5.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p-05-6.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
+        },
+        "p-05-7.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "p-05-8.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
+        },
+        "p-05-9.pddl": {
+            "opt_cost": 54,
+            "opt_plan_length": 54
+        },
+        "p-1-10.pddl": {
+            "opt_cost": 99,
+            "opt_plan_length": 99
+        },
+        "p-1-11.pddl": {
+            "opt_cost": 120,
+            "opt_plan_length": 120
+        },
+        "p-1-12.pddl": {
+            "opt_cost": 143,
+            "opt_plan_length": 143
+        },
+        "p-1-13.pddl": {
+            "opt_cost": 168,
+            "opt_plan_length": 168
+        },
+        "p-1-5.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p-1-6.pddl": {
+            "opt_cost": 35,
+            "opt_plan_length": 35
+        },
+        "p-1-7.pddl": {
+            "opt_cost": 48,
+            "opt_plan_length": 48
+        },
+        "p-1-8.pddl": {
+            "opt_cost": 63,
+            "opt_plan_length": 63
+        },
+        "p-1-9.pddl": {
+            "opt_cost": 80,
+            "opt_plan_length": 80
+        }
+    },
+    "woodworking-opt08-strips": {
+        "p01.pddl": {
+            "opt_cost": 170,
+            "opt_plan_length": 9
+        },
+        "p02.pddl": {
+            "opt_cost": 185,
+            "opt_plan_length": 9
+        },
+        "p03.pddl": {
+            "opt_cost": 275,
+            "opt_plan_length": 18
+        },
+        "p04.pddl": {
+            "opt_cost": 280,
+            "opt_plan_length": 16
+        },
+        "p05.pddl": {
+            "opt_cost": 270,
+            "opt_plan_length": 17
+        },
+        "p06.pddl": {
+            "opt_cost": 430,
+            "opt_plan_length": 22
+        },
+        "p07.pddl": {
+            "opt_cost": 400,
+            "opt_plan_length": 25
+        },
+        "p08.pddl": {
+            "opt_cost": 430,
+            "opt_plan_length": 23
+        },
+        "p09.pddl": {
+            "opt_cost": 445,
+            "opt_plan_length": 28
+        },
+        "p10.pddl": {
+            "opt_cost": 545,
+            "opt_plan_length": 30
+        },
+        "p11.pddl": {
+            "opt_cost": 130,
+            "opt_plan_length": 7
+        },
+        "p12.pddl": {
+            "opt_cost": 225,
+            "opt_plan_length": 12
+        },
+        "p13.pddl": {
+            "opt_cost": 215,
+            "opt_plan_length": 13
+        },
+        "p14.pddl": {
+            "opt_cost": 225,
+            "opt_plan_length": 16
+        },
+        "p15.pddl": {
+            "opt_cost": 270,
+            "opt_plan_length": 18
+        },
+        "p16.pddl": {
+            "opt_cost": 315,
+            "opt_plan_length": 18
+        },
+        "p17.pddl": {
+            "opt_cost": 290,
+            "opt_plan_length": 24
+        },
+        "p18.pddl": {
+            "opt_cost": 455,
+            "opt_plan_length": 28
+        },
+        "p19.pddl": {
+            "opt_cost": 415,
+            "opt_plan_length": 27
+        },
+        "p20.pddl": {
+            "opt_cost": 490,
+            "opt_plan_length": 31
+        },
+        "p21.pddl": {
+            "opt_cost": 95,
+            "opt_plan_length": 6
+        },
+        "p22.pddl": {
+            "opt_cost": 185,
+            "opt_plan_length": 9
+        },
+        "p23.pddl": {
+            "opt_cost": 195,
+            "opt_plan_length": 13
+        },
+        "p24.pddl": {
+            "opt_cost": 245,
+            "opt_plan_length": 15
+        },
+        "p25.pddl": {
+            "opt_cost": 380,
+            "opt_plan_length": 25
+        },
+        "p26.pddl": {
+            "opt_cost": 240,
+            "opt_plan_length": 17
+        },
+        "p27.pddl": {
+            "opt_cost": 350,
+            "opt_plan_length": 25
+        },
+        "p28.pddl": {
+            "opt_cost": 555,
+            "opt_plan_length": 25
+        },
+        "p29.pddl": {
+            "opt_cost": 545,
+            "opt_plan_length": 31
+        },
+        "p30.pddl": {
+            "opt_cost": 650,
+            "opt_plan_length": 38
+        }
+    },
+    "woodworking-opt11-strips": {
+        "p01.pddl": {
+            "opt_cost": 195,
+            "opt_plan_length": 13
+        },
+        "p02.pddl": {
+            "opt_cost": 225,
+            "opt_plan_length": 12
+        },
+        "p03.pddl": {
+            "opt_cost": 215,
+            "opt_plan_length": 13
+        },
+        "p04.pddl": {
+            "opt_cost": 275,
+            "opt_plan_length": 18
+        },
+        "p05.pddl": {
+            "opt_cost": 245,
+            "opt_plan_length": 15
+        },
+        "p06.pddl": {
+            "opt_cost": 280,
+            "opt_plan_length": 16
+        },
+        "p07.pddl": {
+            "opt_cost": 225,
+            "opt_plan_length": 16
+        },
+        "p08.pddl": {
+            "opt_cost": 380,
+            "opt_plan_length": 25
+        },
+        "p09.pddl": {
+            "opt_cost": 270,
+            "opt_plan_length": 17
+        },
+        "p10.pddl": {
+            "opt_cost": 270,
+            "opt_plan_length": 18
+        },
+        "p11.pddl": {
+            "opt_cost": 240,
+            "opt_plan_length": 17
+        },
+        "p12.pddl": {
+            "opt_cost": 315,
+            "opt_plan_length": 18
+        },
+        "p13.pddl": {
+            "opt_cost": 430,
+            "opt_plan_length": 22
+        },
+        "p14.pddl": {
+            "opt_cost": 350,
+            "opt_plan_length": 25
+        },
+        "p15.pddl": {
+            "opt_cost": 290,
+            "opt_plan_length": 24
+        },
+        "p16.pddl": {
+            "opt_cost": 400,
+            "opt_plan_length": 25
+        },
+        "p17.pddl": {
+            "opt_cost": 555,
+            "opt_plan_length": 25
+        },
+        "p18.pddl": {
+            "opt_cost": 455,
+            "opt_plan_length": 28
+        },
+        "p19.pddl": {
+            "opt_cost": 430,
+            "opt_plan_length": 23
+        },
+        "p20.pddl": {
+            "opt_cost": 545,
+            "opt_plan_length": 31
+        }
+    },
+    "zenotravel": {
+        "p01.pddl": {
+            "opt_cost": 1,
+            "opt_plan_length": 1
+        },
+        "p02.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "p03.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 6
+        },
+        "p04.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p05.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p06.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p07.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
+        },
+        "p08.pddl": {
+            "opt_cost": 11,
+            "opt_plan_length": 11
+        },
+        "p09.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p10.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p11.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p12.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p13.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "p14.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
+        }
+    },
+    "airport": {
+        "p01-airport1-p1.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p02-airport1-p1.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        },
+        "p03-airport1-p2.pddl": {
+            "opt_cost": 17,
+            "opt_plan_length": 17
+        },
+        "p04-airport2-p1.pddl": {
+            "opt_cost": 20,
+            "opt_plan_length": 20
+        },
+        "p05-airport2-p1.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p06-airport2-p2.pddl": {
+            "opt_cost": 41,
+            "opt_plan_length": 41
+        },
+        "p07-airport2-p2.pddl": {
+            "opt_cost": 41,
+            "opt_plan_length": 41
+        },
+        "p08-airport2-p3.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 62
+        },
+        "p09-airport2-p4.pddl": {
+            "opt_cost": 71,
+            "opt_plan_length": 71
+        },
+        "p10-airport3-p1.pddl": {
+            "opt_cost": 18,
+            "opt_plan_length": 18
+        },
+        "p11-airport3-p1.pddl": {
+            "opt_cost": 21,
+            "opt_plan_length": 21
+        },
+        "p12-airport3-p2.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 39
+        },
+        "p13-airport3-p2.pddl": {
+            "opt_cost": 37,
+            "opt_plan_length": 37
+        },
+        "p14-airport3-p3.pddl": {
+            "opt_cost": 60,
+            "opt_plan_length": 60
+        },
+        "p15-airport3-p3.pddl": {
+            "opt_cost": 58,
+            "opt_plan_length": 58
+        },
+        "p16-airport3-p4.pddl": {
+            "opt_cost": 79,
+            "opt_plan_length": 79
+        },
+        "p17-airport3-p5.pddl": {
+            "opt_cost": 88,
+            "opt_plan_length": 88
+        },
+        "p18-airport3-p6.pddl": {
+            "opt_cost": 107,
+            "opt_plan_length": 107
+        },
+        "p19-airport3-p6.pddl": {
+            "opt_cost": 90,
+            "opt_plan_length": 90
+        },
+        "p20-airport3-p7.pddl": {
+            "opt_cost": 115,
+            "opt_plan_length": 115
+        },
+        "p21-airport4halfMUC-p2.pddl": {
+            "opt_cost": 101,
+            "opt_plan_length": 101
+        },
+        "p22-airport4halfMUC-p3.pddl": {
+            "opt_cost": 148,
+            "opt_plan_length": 148
+        },
+        "p23-airport4halfMUC-p4.pddl": {
+            "opt_cost": 168,
+            "opt_plan_length": 168
+        },
+        "p24-airport4halfMUC-p4.pddl": {
+            "opt_cost": 162,
+            "opt_plan_length": 162
+        },
+        "p25-airport4halfMUC-p5.pddl": {
+            "opt_cost": 212,
+            "opt_plan_length": 212
+        },
+        "p26-airport4halfMUC-p6.pddl": {
+            "opt_cost": 220,
+            "opt_plan_length": 220
+        },
+        "p27-airport4halfMUC-p6.pddl": {
+            "opt_cost": 246,
+            "opt_plan_length": 246
+        },
+        "p28-airport4halfMUC-p7.pddl": {
+            "opt_cost": 294,
+            "opt_plan_length": 294
+        },
+        "p29-airport4halfMUC-p8.pddl": {
+            "opt_cost": 308,
+            "opt_plan_length": 308
+        },
+        "p30-airport4halfMUC-p8.pddl": {
+            "opt_cost": 310,
+            "opt_plan_length": 310
+        },
+        "p31-airport4halfMUC-p9.pddl": {
+            "opt_cost": 358,
+            "opt_plan_length": 358
+        },
+        "p32-airport4halfMUC-p10.pddl": {
+            "opt_cost": 390,
+            "opt_plan_length": 390
+        },
+        "p33-airport4halfMUC-p10.pddl": {
+            "opt_cost": 393,
+            "opt_plan_length": 393
+        },
+        "p36-airport5MUC-p2.pddl": {
+            "opt_cost": 109,
+            "opt_plan_length": 109
+        },
+        "p37-airport5MUC-p3.pddl": {
+            "opt_cost": 142,
+            "opt_plan_length": 142
+        },
+        "p38-airport5MUC-p3.pddl": {
+            "opt_cost": 155,
+            "opt_plan_length": 155
+        },
+        "p39-airport5MUC-p4.pddl": {
+            "opt_cost": 210,
+            "opt_plan_length": 210
+        },
+        "p40-airport5MUC-p4.pddl": {
+            "opt_cost": 191,
+            "opt_plan_length": 191
+        },
+        "p41-airport5MUC-p4.pddl": {
+            "opt_cost": 179,
+            "opt_plan_length": 179
+        },
+        "p42-airport5MUC-p5.pddl": {
+            "opt_cost": 259,
+            "opt_plan_length": 259
+        },
+        "p43-airport5MUC-p5.pddl": {
+            "opt_cost": 224,
+            "opt_plan_length": 224
+        },
+        "p44-airport5MUC-p5.pddl": {
+            "opt_cost": 229,
+            "opt_plan_length": 229
+        },
+        "p45-airport5MUC-p6.pddl": {
+            "opt_cost": 251,
+            "opt_plan_length": 251
+        },
+        "p46-airport5MUC-p6.pddl": {
+            "opt_cost": 292,
+            "opt_plan_length": 292
+        },
+        "p48-airport5MUC-p9.pddl": {
+            "opt_cost": 428,
+            "opt_plan_length": 428
+        }
+    }
+}
