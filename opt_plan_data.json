@@ -1099,6 +1099,54 @@
         "prob08.pddl": {
             "opt_cost": 53,
             "opt_plan_length": 53
+        },
+        "prob09.pddl": {
+            "opt_cost": 59,
+            "opt_plan_length": 59
+        },
+        "prob10.pddl": {
+            "opt_cost": 65,
+            "opt_plan_length": 65
+        },
+        "prob11.pddl": {
+            "opt_cost": 71,
+            "opt_plan_length": 71
+        },
+        "prob12.pddl": {
+            "opt_cost": 77,
+            "opt_plan_length": 77
+        },
+        "prob13.pddl": {
+            "opt_cost": 83,
+            "opt_plan_length": 83
+        },
+        "prob14.pddl": {
+            "opt_cost": 89,
+            "opt_plan_length": 89
+        },
+        "prob15.pddl": {
+            "opt_cost": 95,
+            "opt_plan_length": 95
+        },
+        "prob16.pddl": {
+            "opt_cost": 101,
+            "opt_plan_length": 101
+        },
+        "prob17.pddl": {
+            "opt_cost": 107,
+            "opt_plan_length": 107
+        },
+        "prob18.pddl": {
+            "opt_cost": 113,
+            "opt_plan_length": 113
+        },
+        "prob19.pddl": {
+            "opt_cost": 119,
+            "opt_plan_length": 119
+        },
+        "prob20.pddl": {
+            "opt_cost": 125,
+            "opt_plan_length": 125
         }
     },
     "hiking-opt14-strips": {
