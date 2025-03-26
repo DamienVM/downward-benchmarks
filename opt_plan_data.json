@@ -15,6 +15,14 @@
         "p05.pddl": {
             "opt_cost": 979,
             "opt_plan_length": 84
+        },
+        "p04.pddl": {
+            "opt_cost": 946,
+            "opt_plan_length": 82
+        },
+        "p06.pddl": {
+            "opt_cost": 1038,
+            "opt_plan_length": 81
         }
     },
     "barman-opt11-strips": {
@@ -49,6 +57,18 @@
         "pfile02-005.pddl": {
             "opt_cost": 121,
             "opt_plan_length": 49
+        },
+        "pfile03-010.pddl": {
+            "opt_cost": 152,
+            "opt_plan_length": 62
+        },
+        "pfile03-011.pddl": {
+            "opt_cost": 152,
+            "opt_plan_length": 62
+        },
+        "pfile03-012.pddl": {
+            "opt_cost": 152,
+            "opt_plan_length": 62
         }
     },
     "barman-opt14-strips": {
@@ -63,6 +83,18 @@
         "p435-3.pddl": {
             "opt_cost": 49,
             "opt_plan_length": 49
+        },
+        "p536-1.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 62
+        },
+        "p536-2.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 62
+        },
+        "p536-3.pddl": {
+            "opt_cost": 62,
+            "opt_plan_length": 62
         }
     },
     "blocks": {
@@ -177,6 +209,18 @@
         "probBLOCKS-10-1.pddl": {
             "opt_cost": 32,
             "opt_plan_length": 32
+        },
+        "probBLOCKS-13-0.pddl": {
+            "opt_cost": 42,
+            "opt_plan_length": 42
+        },
+        "probBLOCKS-13-1.pddl": {
+            "opt_cost": 44,
+            "opt_plan_length": 44
+        },
+        "probBLOCKS-15-0.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
         }
     },
     "data-network-opt18-strips": {
@@ -293,6 +337,10 @@
         "p21.pddl": {
             "opt_cost": 32,
             "opt_plan_length": 32
+        },
+        "p18.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 50
         }
     },
     "driverlog": {
@@ -457,6 +505,14 @@
         "p27.pddl": {
             "opt_cost": 82,
             "opt_plan_length": 30
+        },
+        "p20.pddl": {
+            "opt_cost": 88,
+            "opt_plan_length": 33
+        },
+        "p28.pddl": {
+            "opt_cost": 82,
+            "opt_plan_length": 29
         }
     },
     "elevators-opt11-strips": {
@@ -535,6 +591,10 @@
         "p20.pddl": {
             "opt_cost": 56,
             "opt_plan_length": 24
+        },
+        "p11.pddl": {
+            "opt_cost": 82,
+            "opt_plan_length": 29
         }
     },
     "floortile-opt11-strips": {
@@ -973,6 +1033,14 @@
         "probfreecell-5-3.pddl": {
             "opt_cost": 24,
             "opt_plan_length": 24
+        },
+        "p20.pddl": {
+            "opt_cost": 80,
+            "opt_plan_length": 80
+        },
+        "probfreecell-13-4.pddl": {
+            "opt_cost": 85,
+            "opt_plan_length": 85
         }
     },
     "ged-opt14-strips": {
@@ -1051,6 +1119,10 @@
         "d-8-4.pddl": {
             "opt_cost": 5,
             "opt_plan_length": 18
+        },
+        "d-8-9.pddl": {
+            "opt_cost": 6,
+            "opt_plan_length": 33
         }
     },
     "grid": {
@@ -1225,6 +1297,10 @@
         "ptesting-2-4-6.pddl": {
             "opt_cost": 30,
             "opt_plan_length": 30
+        },
+        "ptesting-2-4-7.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
         }
     },
     "logistics00": {
@@ -1979,6 +2055,10 @@
         "s13-4.pddl": {
             "opt_cost": 41,
             "opt_plan_length": 41
+        },
+        "s23-1.pddl": {
+            "opt_cost": 76,
+            "opt_plan_length": 76
         }
     },
     "movie": {
@@ -2227,6 +2307,10 @@
         "prob20.pddl": {
             "opt_cost": 7,
             "opt_plan_length": 7
+        },
+        "prob13.pddl": {
+            "opt_cost": 15,
+            "opt_plan_length": 15
         }
     },
     "mystery": {
@@ -2489,6 +2573,14 @@
         "p28.pddl": {
             "opt_cost": 4,
             "opt_plan_length": 100
+        },
+        "p29.pddl": {
+            "opt_cost": 5,
+            "opt_plan_length": 104
+        },
+        "p30.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 106
         }
     },
     "openstacks-opt11-strips": {
@@ -2585,6 +2677,10 @@
         "p25_3.pddl": {
             "opt_cost": 9,
             "opt_plan_length": 84
+        },
+        "p25_1.pddl": {
+            "opt_cost": 4,
+            "opt_plan_length": 79
         }
     },
     "openstacks-strips": {
@@ -2647,6 +2743,10 @@
         "p16.pddl": {
             "opt_cost": 94,
             "opt_plan_length": 94
+        },
+        "p13.pddl": {
+            "opt_cost": 96,
+            "opt_plan_length": 96
         }
     },
     "organic-synthesis-opt18-strips": {
@@ -2675,6 +2775,14 @@
             "opt_plan_length": 2
         },
         "p14.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 2
+        },
+        "p11.pddl": {
+            "opt_cost": 2,
+            "opt_plan_length": 2
+        },
+        "p12.pddl": {
             "opt_cost": 2,
             "opt_plan_length": 2
         }
@@ -2973,6 +3081,10 @@
         "pfile05-020.pddl": {
             "opt_cost": 23,
             "opt_plan_length": 23
+        },
+        "pfile05-019.pddl": {
+            "opt_cost": 25,
+            "opt_plan_length": 25
         }
     },
     "parking-opt14-strips": {
@@ -3009,6 +3121,14 @@
             "opt_plan_length": 24
         },
         "p_18_10-03.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p_14_8-04.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p_16_9-03.pddl": {
             "opt_cost": 24,
             "opt_plan_length": 24
         }
@@ -3283,6 +3403,18 @@
         "p12.pddl": {
             "opt_cost": 187,
             "opt_plan_length": 472
+        },
+        "p10.pddl": {
+            "opt_cost": 169,
+            "opt_plan_length": 403
+        },
+        "p13.pddl": {
+            "opt_cost": 192,
+            "opt_plan_length": 378
+        },
+        "p17.pddl": {
+            "opt_cost": 252,
+            "opt_plan_length": 434
         }
     },
     "pipesworld-notankage": {
@@ -3393,6 +3525,10 @@
         "p41-net5-b22-g2.pddl": {
             "opt_cost": 12,
             "opt_plan_length": 12
+        },
+        "p27-net3-b18-g6.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
         }
     },
     "pipesworld-tankage": {
@@ -3471,6 +3607,14 @@
         "p41-net5-b22-g2-t20.pddl": {
             "opt_cost": 14,
             "opt_plan_length": 14
+        },
+        "p14-net2-b12-g5-t30.pddl": {
+            "opt_cost": 38,
+            "opt_plan_length": 38
+        },
+        "p32-net4-b14-g5-t30.pddl": {
+            "opt_cost": 30,
+            "opt_plan_length": 30
         }
     },
     "psr-small": {
@@ -3727,6 +3871,10 @@
         "p15.pddl": {
             "opt_cost": 41,
             "opt_plan_length": 41
+        },
+        "p17.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
         }
     },
     "satellite": {
@@ -3777,6 +3925,10 @@
         "p12-pfile12.pddl": {
             "opt_cost": 43,
             "opt_plan_length": 43
+        },
+        "p18-pfile18.pddl": {
+            "opt_cost": 32,
+            "opt_plan_length": 32
         }
     },
     "scanalyzer-08-strips": {
@@ -3811,6 +3963,10 @@
         "p08.pddl": {
             "opt_cost": 38,
             "opt_plan_length": 18
+        },
+        "p09.pddl": {
+            "opt_cost": 46,
+            "opt_plan_length": 26
         },
         "p10.pddl": {
             "opt_cost": 36,
@@ -4385,6 +4541,10 @@
         "p20.pddl": {
             "opt_cost": 106,
             "opt_plan_length": 106
+        },
+        "p16.pddl": {
+            "opt_cost": 152,
+            "opt_plan_length": 152
         }
     },
     "tetris-opt14-strips": {
@@ -4439,6 +4599,10 @@
         "p05-8.pddl": {
             "opt_cost": 60,
             "opt_plan_length": 32
+        },
+        "p03-10.pddl": {
+            "opt_cost": 77,
+            "opt_plan_length": 34
         }
     },
     "tidybot-opt11-strips": {
@@ -4513,6 +4677,10 @@
         "p20.pddl": {
             "opt_cost": 46,
             "opt_plan_length": 46
+        },
+        "p19.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
         }
     },
     "tidybot-opt14-strips": {
@@ -4575,6 +4743,10 @@
         "p20.pddl": {
             "opt_cost": 46,
             "opt_plan_length": 46
+        },
+        "p19.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
         }
     },
     "tpp": {
@@ -4687,6 +4859,10 @@
         "p25.pddl": {
             "opt_cost": 970,
             "opt_plan_length": 30
+        },
+        "p15.pddl": {
+            "opt_cost": 937,
+            "opt_plan_length": 36
         }
     },
     "transport-opt11-strips": {
@@ -4741,6 +4917,10 @@
         "p19.pddl": {
             "opt_cost": 970,
             "opt_plan_length": 30
+        },
+        "p09.pddl": {
+            "opt_cost": 313,
+            "opt_plan_length": 34
         }
     },
     "transport-opt14-strips": {
@@ -5449,6 +5629,72 @@
         "p48-airport5MUC-p9.pddl": {
             "opt_cost": 428,
             "opt_plan_length": 428
+        }
+    },
+    "quantum-layout-opt23-strips": {
+        "p01.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p02.pddl": {
+            "opt_cost": 14,
+            "opt_plan_length": 14
+        },
+        "p03.pddl": {
+            "opt_cost": 40,
+            "opt_plan_length": 40
+        },
+        "p04.pddl": {
+            "opt_cost": 39,
+            "opt_plan_length": 39
+        },
+        "p05.pddl": {
+            "opt_cost": 47,
+            "opt_plan_length": 47
+        },
+        "p07.pddl": {
+            "opt_cost": 8,
+            "opt_plan_length": 8
+        },
+        "p08.pddl": {
+            "opt_cost": 9,
+            "opt_plan_length": 9
+        },
+        "p09.pddl": {
+            "opt_cost": 26,
+            "opt_plan_length": 26
+        },
+        "p10.pddl": {
+            "opt_cost": 24,
+            "opt_plan_length": 24
+        },
+        "p11.pddl": {
+            "opt_cost": 34,
+            "opt_plan_length": 34
+        },
+        "p12.pddl": {
+            "opt_cost": 65,
+            "opt_plan_length": 65
+        },
+        "p14.pddl": {
+            "opt_cost": 10,
+            "opt_plan_length": 10
+        },
+        "p15.pddl": {
+            "opt_cost": 16,
+            "opt_plan_length": 16
+        },
+        "p16.pddl": {
+            "opt_cost": 22,
+            "opt_plan_length": 22
+        },
+        "p17.pddl": {
+            "opt_cost": 43,
+            "opt_plan_length": 43
+        },
+        "p18.pddl": {
+            "opt_cost": 50,
+            "opt_plan_length": 50
         }
     }
 }
