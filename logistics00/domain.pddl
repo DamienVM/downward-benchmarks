@@ -11,7 +11,7 @@
 		(in-city ?obj ?city)
                 (city ?city)
 		(at ?obj ?loc)
-		(in ?obj ?obj))
+		(in ?obj1 ?obj2))
 
  
 (:action load-truck
